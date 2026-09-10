@@ -1,19 +1,32 @@
 <div align="center">
 
-<p align="center">
-  <img src="./github_profile_round.png" width="180">
-</p>
+<table>
+<tr>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Python+%7C+Data+Science+%7C+Web+Development;Exploring+AI+and+Machine+Learning;Building+Solutions+for+Real-World+Problems" alt="Typing SVG"/>
+<td width="220" align="center">
 
-<p>
+<img src="./github_profile_round.png" width="180">
+
+</td>
+
+<td align="left">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=0EA5E9&center=false&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Exploring+AI+and+Machine+Learning;Building+Solutions+for+Real-World+Problems" alt="Typing SVG"/>
+
+<br>
+
 <a href="mailto:ofiqshaik0916@gmail.com">
 <img src="https://img.shields.io/badge/Email-ofiqshaik0916%40gmail.com-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://github.com/Ofiq-cmd">
 <img src="https://img.shields.io/badge/GitHub-Ofiq--cmd-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</p>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
