@@ -17,25 +17,25 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I am an **Artificial Intelligence & Data Science student** passionate about learning technology and turning ideas into practical solutions.
 
 Currently, I am building my foundation in **Python, Data Science, Artificial Intelligence, Machine Learning, and Web Development**. I enjoy exploring new technologies and applying what I learn to real-world problems.
 
 🎓 B.Tech Artificial Intelligence & Data Science
-💻 Python • HTML • CSS • JavaScript • SQL
-🤖 Artificial Intelligence • Machine Learning • Data Science
-🌐 Web Development
-🏆 Best Student of the Year 2026
-🇩🇪 German A1 Certified
-🚀 Interested in building innovative real-world solutions
+ > Python • HTML • CSS • JavaScript • SQL
+ > Artificial Intelligence • Machine Learning • Data Science
+ > Web Development
+ > Best Student of the Year 2026
+ > German A1 Certified
+ Interested in building innovative real-world solutions
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🛡️ Smart Tourist Safety Monitoring System
+###  Smart Tourist Safety Monitoring System
 
 A smart tourist safety platform designed to monitor routes, locations, incidents, and risk conditions to improve traveller safety.
 
@@ -44,7 +44,7 @@ A smart tourist safety platform designed to monitor routes, locations, incidents
 
 ---
 
-### 🍱 Food Waste Reduction Platform
+###  Food Waste Reduction Platform
 
 A platform that connects **food donors with nearby charities and recipients**, helping reduce food waste and make surplus food available to people who need it.
 
@@ -53,7 +53,7 @@ A platform that connects **food donors with nearby charities and recipients**, h
 
 ---
 
-### 🛒 E-Commerce Website
+###  E-Commerce Website
 
 An e-commerce website developed during my **Web Development Internship**, inspired by the functionality and structure of modern online shopping platforms.
 
@@ -62,35 +62,33 @@ An e-commerce website developed during my **Web Development Internship**, inspir
 
 ---
 
-## 🏆 Achievements & Certifications
+##  Achievements & Certifications
 
-🏅 **Best Student of the Year 2026**
+ **Best Student of the Year 2026**
 Dhaanish Ahmed College of Engineering
 
-🇩🇪 **German A1 Certification**
+ **German A1 Certification**
 
-🐍 **Python Programming**
+ **Python Programming**
 NPTEL
 
-📊 **Python for Data Science**
+ **Python for Data Science**
 NPTEL
 
-💻 **Web Development Internship**
+ **Web Development Internship**
 Codetech
 
-🏗️ **Smart India Hackathon 2025**
+ **Smart India Hackathon 2025**
 Participated with a Smart Tourist Safety project
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 ### Languages
 
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 ### Tools & Technologies
@@ -105,7 +103,7 @@ Participated with a Smart Tourist Safety project
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 🔹 Artificial Intelligence
 🔹 Machine Learning
@@ -116,7 +114,7 @@ Participated with a Smart Tourist Safety project
 
 ---
 
-## 🎯 My Goal
+##  My Goal
 
 > **To build practical technology solutions that combine AI, data, and software to solve real-world problems.**
 
