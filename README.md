@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="<img src="./github_profile_round.png" width="180" type=waving&color=0:38BDF8,50:0EA5E9,100:0C4A6E&height=220&section=header&text=OFIQ%20SHAIK&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Student&descAlignY=58&descSize=20" width="100%"/>
+<p align="center">
+  <img src="./github_profile_round.png" width="180">
+</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Python+%7C+Data+Science+%7C+Web+Development;Exploring+AI+and+Machine+Learning;Building+Solutions+for+Real-World+Problems" alt="Typing SVG"/>
 
