@@ -1,24 +1,16 @@
 <div align="center">
 
-<img src="./github_profile_round.png"
+<img src="https://github.com/Ofiq-cmd.png"
      width="180"
      align="left"
-     alt="Ofiq Shaik">
-
-<br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
+     style="border-radius: 50%">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=0EA5E9&center=false&vCenter=true&width=520&lines=AI+%26+Data+Science+Student;Exploring+AI+and+Machine+Learning;Building+Real-World+Solutions"
      alt="Typing SVG">
 
-<br><br>
-
 <a href="mailto:ofiqshaik0916@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-
-&nbsp;
 
 <a href="https://github.com/Ofiq-cmd">
 <img src="https://img.shields.io/badge/GitHub-Ofiq--cmd-181717?style=for-the-badge&logo=github&logoColor=white">
