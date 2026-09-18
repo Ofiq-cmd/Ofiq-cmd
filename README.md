@@ -1,9 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/Ofiq-cmd.png"
-     width="180"
-     align="left"
-     style="border-radius: 50%">
+<img src="https://github.com/Ofiq-cmd.png" width="180" align="left" style="border-radius: 50%;">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=0EA5E9&center=false&vCenter=true&width=520&lines=AI+%26+Data+Science+Student;Exploring+AI+and+Machine+Learning;Building+Real-World+Solutions"
      alt="Typing SVG">
@@ -69,21 +66,21 @@ An e-commerce website developed during my **Web Development Internship**, inspir
 
 ##  Achievements & Certifications
 
- **Best Student of the Year 2026**
-Dhaanish Ahmed College of Engineering
+ **>> Best Student of the Year 2026**
+At Dhaanish Chennai College of Engineering
 
- **German A1 Certification**
+ **>> German A1 Certification**
 
- **Python Programming**
+ **>> Python Programming**
 NPTEL
 
- **Python for Data Science**
+ **>> Python for Data Science**
 NPTEL
 
- **Web Development Internship**
-Codetech
+ **>> Web Development Internship**
+In Codetech
 
- **Smart India Hackathon 2025**
+ **>> Smart India Hackathon 2025**
 Participated with a Smart Tourist Safety project
 
 ---
