@@ -35,7 +35,7 @@ Currently, I am building my foundation in **Python, Data Science, Artificial Int
 
 ---
 
-##  Featured Projects
+##  # Featured Projects
 
 ###  Smart Tourist Safety Monitoring System
 
@@ -64,7 +64,7 @@ An e-commerce website developed during my **Web Development Internship**, inspir
 
 ---
 
-##  Achievements & Certifications
+##  # Achievements & Certifications
 
  **>> Best Student of the Year 2026**
 At Dhaanish Chennai College of Engineering
@@ -85,7 +85,7 @@ Participated with a Smart Tourist Safety project
 
 ---
 
-##  Tech Stack
+##  # Tech Stack
 
 ### Languages
 
