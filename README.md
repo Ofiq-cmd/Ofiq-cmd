@@ -144,7 +144,7 @@ I am continuously learning, experimenting with new technologies, and working on 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ofiq-cmd&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=0EA5E9&text_color=C9D1D9" alt="Ofiq-cmd GitHub statistics" width="495" />
+<img src="./profile/stats.svg" width="48%" alt="GitHub Stats">
 
 <br/><br/>
 
